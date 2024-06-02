@@ -1,3 +1,4 @@
+//data file for API
 export const filterData = [
     {
       id: "1",
