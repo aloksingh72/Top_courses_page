@@ -21,6 +21,7 @@ export const filterData = [
       title: "Lifestyle",
     },
   ];
-  
+  //api url
+
   export const apiUrl = "https://codehelp-apis.vercel.app/api/get-top-courses";
   
